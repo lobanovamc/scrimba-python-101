@@ -15,7 +15,7 @@ def greeting(name, age, color='red'):
 name = input('Enter your name: ')
 name = name.capitalize()
 age = input('Enter your age: ')
-age=int(age)
+age = int(age)
 color = input('Enter your favourite color: ')
 color = color.lower()
 
